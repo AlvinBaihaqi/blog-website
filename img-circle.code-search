@@ -1,0 +1,14 @@
+# Query: img-circle
+# ContextLines: 1
+
+2 results - 2 files
+
+BS Portfolio Resume Free Website Template - Free-CSS.com • bs-Portfolio-Resume\index.html:
+  89                  <div class="col-md-3 " data-scrollreveal="enter left and move 100px, wait 0.4s">
+  90:                     <img class="img-circle" src="assets/img/team/alvin.jpeg" alt="">
+  91                      <h4><strong>Alvin Aulia Baihaqi</strong> </h4>
+
+BS Portfolio Resume Free Website Template - Free-CSS.com • bs-Portfolio-Resume\assets\css\bootstrap.css:
+  333  }
+  334: .img-circle {
+  335    border-radius: 10%;
